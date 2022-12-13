@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Oi, eu sou o Eduardo Acacio!
+## Hi, I'm Eduardo Acacio!
 <div align="center">
   <a href="https://github.com/eduardoakacio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoakacio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
